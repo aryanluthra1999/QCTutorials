@@ -1,4 +1,4 @@
-namespace   {
+namespace QuantumRandomNumberGen {
     open Microsoft.Quantum.Intrinsic;
     open Microsoft.Quantum.Canon;
 
